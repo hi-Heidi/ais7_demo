@@ -5,8 +5,8 @@
 <br />
 
 ## MINI Project
-1. web scraping- 카페 파스쿠찌 매장 정보 수집하기<img src="https://discordapp.com/channels/@me/1019424117293862952/1031745887921250324">
-2. EDA- 서울시 5개 구(동대문구, 중랑구, 성동구, 성북구, 종로구) 편의점 데이터와 생활인구 데이터 간 관계 분석<img src="https://discordapp.com/assets/dcd96093a932467ba2155089dae4f789.svg"><img src="https://discordapp.com/channels/@me/1019424117293862952/1031746685971476530">
+1. web scraping- 카페 파스쿠찌 매장 정보 수집하기:coffee:
+2. EDA- 서울시 5개 구(동대문구, 중랑구, 성동구, 성북구, 종로구) 편의점 데이터와 생활인구 데이터 간 관계 분석:convenience_Store: :man_walking:
 
 <br />
 
