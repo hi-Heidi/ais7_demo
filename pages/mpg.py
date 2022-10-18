@@ -55,5 +55,5 @@ st.pyplot(fig)
 pxh = px.histogram(data, x='origin', title='지역별 자동차 연비 데이터 수')
 st.plotly_chart(pxh)
 
-pxmh = px.histogram(data, x='acceleration', color='origin', title='국가별 가속도 분포 시각화')
+pxmh = px.histogram(data, x='acceleration', color='origin', title='국가별 자동차 가속도 분포 시각화')
 pxmh
