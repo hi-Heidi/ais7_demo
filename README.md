@@ -1,5 +1,7 @@
 # ais7_demo
 
+<img src="5_IE.png" width="200" height="200">
+
 ## 멋쟁이 사자처럼 AIS7 실습
 1. 실습 순서
 2. 깃헙 계정 만들기
